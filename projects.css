@@ -1,0 +1,58 @@
+.main11 {
+    color: rgb(23, 192, 7);
+   border: dashed 10px red;
+   background-image: url(photo/abstract-geometric-wireframe-background_52683-59421.avif);
+   height: 400px;
+   background-image: url(photo/oooooo.avif);
+    
+}
+
+body {
+    background-image: url(photo/projects3.jpg);
+
+
+}
+
+h1 {
+    color: red;
+    font-size: 40px
+}
+
+img {
+    width: 200px;
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.main22 {
+    border: dotted 5px rgb(199, 22, 12);
+    margin: 10px 5px 5px;
+    width: 70%;
+    background-image: url(photo/yyyyyyyyyyyyyyyy.jpg);
+}
+
+
+h3 {
+    font-size: 35px;
+    color: rgb(123, 8, 60);
+}
+
+
+
+
+
+h4 {
+    font-size: 20px;
+    float: right;
+    color: red;
+
+}
+
+
+
+
+
+
+
+

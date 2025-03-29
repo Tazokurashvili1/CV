@@ -1,0 +1,101 @@
+body {
+    background-color: bisque;
+    background-image: url(photo/abstract-geometric-wireframe-background_52683-59421.avif)
+}
+
+
+
+
+
+div{
+    width: 150px;
+    height: 200px;
+    background-color: red;
+    
+}
+
+
+
+.tex1 {
+    color: tomato;
+
+    width: 96%;
+    height: 150px;
+    border-bottom: 10cm;
+    border: solid rgba(0, 48, 111, 0.855) 8px;
+    background-image: url(photo/gradient-galaxy-background-with-colorful-planets_23-2148999259.avif);
+    margin: 5px;
+    padding: 10px;
+    font-size: xx-large
+    
+    
+    
+
+
+}
+
+.tex2 {
+    background-color: rgba(0, 0, 255, 0.215);
+    width: 96%;
+    font-size: larger;
+    padding: 10px;
+    margin: 8px;
+    color: blue;
+   border: dashed red 5px;
+}
+
+
+h1 {
+   
+    width: 20%;
+    margin: 5px;
+    padding: 5px 5px 4px 3px;
+    font-size: xx-large;
+    color: darkblue;
+}
+ 
+p {
+    font-size: 30px;
+}
+
+h2 {
+    color: red;
+}
+
+
+.resume11 {
+    background-color: rgba(0, 0, 255, 0.416);
+    width: 78%;
+    border: dotted 5px yellow;
+   margin: 8px;
+}
+
+#bolo12 {
+    width: 75%;
+    height: 150px;
+    color: blue;
+    border: dashed 5px tomato;
+   background-color: aqua;
+    margin: 8px;
+}
+   
+
+
+p {
+    
+        font-family: "Zilla Slab Highlight", serif;
+        font-weight: 700;
+        font-style: normal;
+      
+}
+
+h5 {
+    text-align: right;
+    
+        font-family: "Zilla Slab Highlight", serif;
+        font-weight: 700;
+        font-style: normal;
+}
+
+
+
